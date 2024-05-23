@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "750796411948",
+    "project_id": "prjerickpersistencia",
+    "storage_bucket": "prjerickpersistencia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750796411948:android:bdf097138ed64097da2d89",
+        "android_client_info": {
+          "package_name": "com.aula.firebase.flutterFirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQlkp2SL02iZH7uJ1Iw2gCCg3v-G81QPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
